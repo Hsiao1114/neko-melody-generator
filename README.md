@@ -50,7 +50,7 @@ A simple, aesthetic web tool that randomly generates Japanese-style music titles
 
 ## 💖 About
 
-This project was built for the [Neko Melody](https://www.youtube.com/@NekoMelody) YouTube channel — a cozy place for Japanese-inspired lo-fi & cafe music.
+This project was built for the [Neko Melody]((https://www.youtube.com/@NekoMelody-2567)) YouTube channel — a cozy place for Japanese-inspired lo-fi & cafe music.
 
 ---
 
